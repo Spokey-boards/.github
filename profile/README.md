@@ -1,6 +1,6 @@
 ## spokey boards
 
-The keyboards designed by @spoo-bar
+The keyboards designed/used by @spoo-bar
 
 <!--
 
